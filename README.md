@@ -6,6 +6,7 @@
 👩‍💻 Experienced in full-stack web and mobile app development with hands-on projects using the MERN stack, Kotlin, and cloud-native architectures.  
 🤝 Active contributor and team leader in collaborative projects, delivering high-quality results under pressure.  
 🎯 Currently seeking opportunities to apply my skills in real-world software engineering environments.  
+🎓 Undergraduate at SLIIT, specializing in Software Engineering  
 
 ---
 
