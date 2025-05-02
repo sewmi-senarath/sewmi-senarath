@@ -1,3 +1,14 @@
+<div align="center" style="background: linear-gradient(to right, #FF8C00, #000000); padding: 20px; border-radius: 10px; color: white;">
+
+# Sewmi Senarath
+
+Software Engineering Undergraduate @ SLIIT  
+📧 sewmisenarath@gmail.com  
+🔗 LinkedIn: sewmi-senarath  
+💻 GitHub: sewmi-senarath  
+
+</div>
+
 # 👋 Hi, I'm Sewmi Senarath
 
 ## 💼 Software Engineering Undergraduate | MERN Stack Developer | Android Enthusiast
