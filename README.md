@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/SE1020-IT2070-OOP-DSA-25/project-sewmi-senarath/issues/7"
-</p>
 
 # 👋 Hi, I'm Sewmi Senarath
 
