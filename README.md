@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/hzXxU5E.png" alt="Sewmi Senarath" width="100%](https://github.com/SE1020-IT2070-OOP-DSA-25/project-sewmi-senarath/issues/7)" />
+  <img src="https://i.imgur.com/hzXxU5E.png" alt="Sewmi Senarath" width="100%""
 </p>
 
 # 👋 Hi, I'm Sewmi Senarath
