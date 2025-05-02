@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/hzXxU5E.png" alt="Sewmi Senarath" width="100%" />
+</p>
+
 # 👋 Hi, I'm Sewmi Senarath
 
 ## 💼 Software Engineering Undergraduate | MERN Stack Developer | Android Enthusiast
@@ -23,6 +27,13 @@
 ### 📈 GitHub Stats
 
 ![Sewmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sewmi-senarath&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sewmi-senarath&layout=compact&theme=tokyonight)
+
+---
+
+### 📊 Contribution Graph
+
+[![Sewmi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sewmi-senarath&theme=tokyo-night)](https://github.com/sewmi-senarath)
 
 ---
 
@@ -39,4 +50,3 @@
 - 🔹 [Employee Management System (MERN Stack)](https://github.com/sewmi-senarath/ITP_Project_Tannoy/tree/employee-manager)  
 - 🔹 [Finance Tracker API](https://github.com/sewmi-senarath/FinanceTrackerApp)  
 - 🔹 [Cloud-Native Food Order System](https://github.com/ImalAyodya/Cloud-Native-FoodOrderSystem/tree/RestaurantManagment/Order_Mangement_And_Notification_Service)
-
