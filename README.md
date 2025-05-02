@@ -1,20 +1,3 @@
-<div align="center" style="background: linear-gradient(135deg, #FF8C00 0%, #000000 100%); padding: 40px 20px; border-radius: 15px; color: white; font-family: 'Segoe UI', sans-serif; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
-  <h1 style="font-size: 3rem; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Sewmi Senarath</h1>
-  <p style="font-size: 1.5rem; opacity: 0.9; margin: 10px 0 20px;">Software Engineering Undergraduate @ SLIIT</p>
-  
-  <div style="display: flex; justify-content: center; gap: 25px; margin-top: 20px;">
-    <a href="mailto:sewmisenarath@gmail.com" style="color: white; text-decoration: none; font-size: 1.1rem; transition: all 0.3s ease;">
-      📧 sewmisenarath@gmail.com
-    </a>
-    <a href="https://linkedin.com/in/sewmi-senarath" style="color: white; text-decoration: none; font-size: 1.1rem; transition: all 0.3s ease;">
-      🔗 LinkedIn: sewmi-senarath
-    </a>
-    <a href="https://github.com/sewmi-senarath" style="color: white; text-decoration: none; font-size: 1.1rem; transition: all 0.3s ease;">
-      💻 GitHub: sewmi-senarath
-    </a>
-  </div>
-</div>
-
 # 👋 Hi, I'm Sewmi Senarath
 
 ## 💼 Software Engineering Undergraduate | MERN Stack Developer | Android Enthusiast
