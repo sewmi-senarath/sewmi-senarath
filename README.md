@@ -37,7 +37,7 @@
 
 ### 📫 Let's Connect
 
-* 📧 Email: [sewmisenarath@gmail.com](mailto:sewmisenarath@gmail.com)
+* 📧 [Gmail](mailto:sewmisenarath@gmail.com)
 * 🔗 [LinkedIn](http://www.linkedin.com/in/sewmi-senarath)
 * 💻 [GitHub](https://github.com/sewmi-senarath)
 
