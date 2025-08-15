@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sewmi Senarath
 
-## 💼 Software Engineering Undergraduate | MERN Stack Developer | Android Enthusiast
+## 💼 Software Engineering Undergraduate
 ## portfolio - https://sewmisenarath.com/
 
 🚀 Passionate about designing and developing scalable, user-focused solutions.  
