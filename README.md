@@ -1,31 +1,26 @@
 # 👋 Hi, I'm Sewmi Senarath
 
-## 💼 Software Engineering Undergraduate
-## portfolio - https://sewmisenarath.com/
+## 💼 Software Engineering Undergraduate | Intern Full-Stack Developer
 
+👩‍💻 portfolio - https://sewmisenarath.com/
 🚀 Passionate about designing and developing scalable, user-focused solutions.  
-👩‍💻 Experienced in full-stack web and mobile app development with hands-on projects using the MERN stack, Kotlin, and cloud-native architectures.  
-🤝 Active contributor and team leader in collaborative projects, delivering high-quality results under pressure.  
-🎯 Currently seeking opportunities to apply my skills in real-world software engineering environments.  
-🎓 Undergraduate at SLIIT, specializing in Software Engineering  
+👩‍💻 Hands on experience in full-stack web and mobile app development.
+🤝 Active contributor and team leader in collaborative projects, delivering high-quality results.
+🎓 FInal Year Undergraduate at SLIIT, specializing in Software Engineering.
 
 ---
 
 ### 🛠 Tech Stack
 
+* ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+* ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+* ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 * ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat\&logo=openjdk\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat\&logo=kotlin\&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat\&logo=php\&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat\&logo=c\&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat\&logo=c%2B%2B\&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat\&logo=go\&logoColor=white)
 * ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat\&logo=css3\&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat\&logo=tailwind-css\&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat\&logo=bootstrap\&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat\&logo=node.js\&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat\&logo=express\&logoColor=white)
 * ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat\&logo=android\&logoColor=white)
 * ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat\&logo=mongodb\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat\&logo=mysql\&logoColor=white)
 * ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat\&logo=docker\&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat\&logo=kubernetes\&logoColor=white)
 * ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat\&logo=github\&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat\&logo=visual-studio-code\&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat\&logo=android-studio\&logoColor=white) ![Eclipse IDE](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat\&logo=eclipse\&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![Sewmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sewmi-senarath\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sewmi-senarath\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -42,9 +37,3 @@
 * 💻 [GitHub](https://github.com/sewmi-senarath)
 
 ---
-
-### 🌟 Featured Projects
-
-* 🔹 [Employee Management System (MERN Stack)](https://github.com/sewmi-senarath/ITP_Project_Tannoy/tree/employee-manager)
-* 🔹 [Finance Tracker API](https://github.com/sewmi-senarath/FinanceTrackerApp)
-* 🔹 [Cloud-Native Food Order System](https://github.com/ImalAyodya/Cloud-Native-FoodOrderSystem/tree/RestaurantManagment/Order_Mangement_And_Notification_Service)
