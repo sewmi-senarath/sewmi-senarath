@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Sewmi Senarath
 
 ## 💼 Software Engineering Undergraduate | Intern Full-Stack Developer
-👩‍💻 portfolio - https://sewmisenarath.com/
-🚀 Passionate about designing and developing scalable, user-focused solutions.  
-👩‍💻 Hands on experience in full-stack web and mobile app development.
-🤝 Active contributor and team leader in collaborative projects, delivering high-quality results.
-🎓 Final Year Undergraduate at SLIIT, specializing in Software Engineering.
+
+👩‍💻 portfolio - https://sewmisenarath.com/                                                                                                                                                                            🚀 Passionate about designing and developing scalable, user-focused solutions.                                                                                                                                       
+👩‍💻 Hands on experience in full-stack web and mobile app development.                                                                                                                                                 🤝 Active contributor and team leader in collaborative projects, delivering high-quality results.                                                                                                                    🎓 Final Year Undergraduate at SLIIT, specializing in Software Engineering.                                                                                                                                           
 
 ---
 
